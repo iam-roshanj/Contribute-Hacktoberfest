@@ -5,10 +5,10 @@
 ![image](https://user-images.githubusercontent.com/84196979/198001252-84a8aab2-9804-4a7a-9ae2-dd9d5a539f7b.png)
 
 
-
+ 
 # HacktoberFest22
 
-Hello Hackers! HacktoberFest has begun again for year 2022, and everyone's excited to get started! Contribute between:
+Hello Hackers! Welcome!!! HacktoberFest has begun again for year 2022, and everyone's excited to get started! Contribute between:
 1st OCTOBER - 31st OCTOBER
 
 ## Create a Pull request and add any feature update to the repository.
