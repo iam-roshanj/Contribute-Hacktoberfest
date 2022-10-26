@@ -1,4 +1,40 @@
-New to opensource?
-Don't worry.Participate in Hacktoberfest by contributing to any Open Source project on GitHub! Here is a starter project for first time contributors.
-You must fork and star the repo to participate otherwise you won't be able to participate...
-You can follow me for more updates :)
+ The repository is totally dedicated to Hacktober Fest 2022, feel free to use it. Topics hacktoberfest ,hacktoberfest-accepted and hacktoberfest2022.
+
+![image](https://user-images.githubusercontent.com/84196979/198001252-84a8aab2-9804-4a7a-9ae2-dd9d5a539f7b.png)
+
+
+
+# HacktoberFest22
+
+Hello Hackers! HacktoberFest has begun again for year 2022, and everyone's excited to get started! Contribute between:
+1st OCTOBER - 31st OCTOBER
+
+## Create a Pull request and add any feature update to the repository.
+
+[Click here to register for Hacktoberfest2022](https://hacktoberfest.com/)
+
+## How to contribute to this project?
+
+Choose both, make a pull request for your work and wait for it to be merged!!
+
+## Getting started
+
+  Fork this repository (Click the Fork button in the top right of this page)
+  ![image](https://user-images.githubusercontent.com/84196979/198003700-733a3fcf-fe13-48b8-97ab-e3dae2c65935.png)
+
+  
+  Clone your fork down to your local machine.
+  
+  git clone https://github.com/iam-roshanj/Hacktoberfest2022
+  
+  Open the folder in your favourite text editor(e.g. VS Code)
+  
+  Choose the programming language folder in which you want to write or create any program of your choice.( If the programming language folder which you are searching for is not available then create the folder yourself).
+
+   Commit and push your code.
+
+   Create a new pull request from your forked repository (Click the New Pull Request button located at the top of your repo)
+
+   Wait for your PR review and merge approval...
+
+   Star this repository if you had fun contributing!
