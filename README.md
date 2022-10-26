@@ -30,7 +30,7 @@ Choose both, make a pull request for your work and wait for it to be merged!!
   
  3. Open the folder in your favourite text editor(e.g. VS Code)
   
- 4. Choose the programming language folder in which you want to write and create any program of your choice.( If the programming language folder which you are      searching for is not available then create the folder yourself).
+  4. Choose the programming language folder in which you want to write and create any program of your choice.( If the programming language folder which you are      searching for is not available then create the folder yourself).
 
   5. Commit and push your code.
 
