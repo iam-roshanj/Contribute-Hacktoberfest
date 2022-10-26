@@ -19,22 +19,23 @@ Choose both, make a pull request for your work and wait for it to be merged!!
 
 ## Getting started
 
-  Fork this repository (Click the Fork button in the top right of this page)
-  ![image](https://user-images.githubusercontent.com/84196979/198003700-733a3fcf-fe13-48b8-97ab-e3dae2c65935.png)
+  1. Fork this repository (Click the Fork button in the top right of this page)
+  ![image](https://user-images.githubusercontent.com/84196979/198005188-6a9b0443-c83f-42f7-8797-59de95f79c13.png)
+
 
   
-  Clone your fork down to your local machine.
+ 2. Clone your fork down to your local machine.
   
   git clone https://github.com/iam-roshanj/Hacktoberfest2022
   
-  Open the folder in your favourite text editor(e.g. VS Code)
+ 3. Open the folder in your favourite text editor(e.g. VS Code)
   
-  Choose the programming language folder in which you want to write or create any program of your choice.( If the programming language folder which you are searching for is not available then create the folder yourself).
+ 4. Choose the programming language folder in which you want to write or create any program of your choice.( If the programming language folder which you are      searching for is not available then create the folder yourself).
 
-   Commit and push your code.
+  5. Commit and push your code.
 
-   Create a new pull request from your forked repository (Click the New Pull Request button located at the top of your repo)
+  6. Create a new pull request from your forked repository (Click the New Pull Request button located at the top of your repo)
 
-   Wait for your PR review and merge approval...
+  7. Wait for your PR review and merge approval...
 
-   Star this repository if you had fun contributing!
+  8. Star this repository if you had fun contributing!
