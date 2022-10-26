@@ -1,2 +1,4 @@
-# Hacktoberfest2022
-Hacktoberfest 2022 is scheduled to be held from 1st October 2022 to 31st October 2022. Hacktoberfest is the biggest open-source one-month long event that is headed by DigitalOcean along with other sponsoring companies.
+New to opensource?
+Don't worry.Participate in Hacktoberfest by contributing to any Open Source project on GitHub! Here is a starter project for first time contributors.
+You must fork and star the repo to participate otherwise you won't be able to participate...
+You can follow me for more updates :)
